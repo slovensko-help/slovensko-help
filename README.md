@@ -1,4 +1,4 @@
-# Slovensko-Help
+![slovensko.help](/slovensko-help.png)
 
 Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť Slovensku lepšie zvládnuť aktuálnu hrozbu epidémie nového coronavírusu.
 
