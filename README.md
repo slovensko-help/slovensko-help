@@ -19,6 +19,7 @@ Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť 
 ## Ďalšie aktivity
 
 Komunita pracuje paralelne na viacerých projektoch, ktoré môžu pomôcť ľuďom. [Pozrite si našu wiki](https://github.com/misotrnka/slovensko-help/wiki).
+ - [Info plagát na dvere lekární](https://github.com/misotrnka/slovensko-help/wiki/Info-plag%C3%A1t-na-dvere-lek%C3%A1rn%C3%AD) - ilustrovaný A4 infoleták a verzia aj pre zdieľanie na FB
 
 ## Chcem sa zapojiť
 
