@@ -11,6 +11,11 @@ Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť 
 
 **Lepšia Infolinka** - Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
 
+## Iné projekty, ktoré pomáhajú
+
+ - [Kto pomôže Slovensku](https://ktopomozeslovensku.sk/) - zbierka na pomoc lekárom, zdravotníkom a záchranárom.
+ - [Sme s vami](https://www.smesvami.sk/) - možnosť pre živnostníkov predávať predplatené služby a prečkať tak čas bez tržieb.
+
 ## Ďalšie aktivity
 
 Komunita pracuje paralelne na viacerých projektoch, ktoré môžu pomôcť ľuďom. [Pozrite si našu wiki](https://github.com/misotrnka/slovensko-help/wiki).
