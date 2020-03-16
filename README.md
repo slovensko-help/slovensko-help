@@ -2,26 +2,23 @@
 
 Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť Slovensku lepšie zvládnuť aktuálnu hrozbu epidémie nového coronavírusu.
 
+# Slovensko-Help Knowledge Base
+
+Zbierka rôznych zdrojov, ktoré pomáhajú zefektívniť procesy za účelom lepšieho zvládania pandémie.
+
 ## Naše projekty
 
-[Covid.chat](https://covid.chat/) - Chatbot, ktorý umožňuje ľuďom, aby si pomohli sami, prostredníctvom zrozumiteľnej webovej aplikácie - chatbota, ktorý im jednoducho poskytne základné informácie o:
- - Aktuálnej situácii - počet prípadov, platné mimoriadne opatrenia, atď.
- - Prevencii - aktuálne odporúčania, ako sa správať, aby sa minimalizovali riziko infekcie
- - Diagnostike - aké sú príznaky a kedy je potrebné obrátiť sa na lekára, prípadne RZP.
+* [Chatbot - Covid.chat](Chatbot---Covid.chat)
+  * Webový chat, ktorý umožňuje ľuďom, aby si pomohli sami, prostredníctvom zrozumiteľnej webovej aplikácie - chatbota, ktorý im jednoducho poskytne základné informácie o aktuálnej situácii, prevencii a diagnostike.
+* [Lepšia Infolinka](Lepšia-Infolinka)
+  * Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
+* [Plagáty](Plag%C3%A1ty)
+  * Vytvárame plagáty pre lekárne, domácnosti, pošty a iné miesta, na ktorých je dôležité ľudí povzbudzovať k ohľaduplnosti a zodpovednému správaniu. Plagáty stačí stiahnuť, vytlačiť a vylepiť na viditeľné miesto.
 
-**Lepšia Infolinka** - Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
+## Iné projekty a informácie
 
-## Iné projekty, ktoré pomáhajú
+* [Informácie](Inform%C3%A1cie)
+* [Vzdelávanie](Vzdel%C3%A1vanie)
+* [Projekty podpory](Projekty-podpory)
+* [Urob si sám](Urob-si-s%C3%A1m)
 
- - [Kto pomôže Slovensku](https://ktopomozeslovensku.sk/) - zbierka na pomoc lekárom, zdravotníkom a záchranárom.
- - [Sme s vami](https://www.smesvami.sk/) - možnosť pre živnostníkov predávať predplatené služby a prečkať tak čas bez tržieb.
-
-## Ďalšie aktivity
-
-Komunita pracuje paralelne na viacerých projektoch, ktoré môžu pomôcť ľuďom. [Pozrite si našu wiki](https://github.com/misotrnka/slovensko-help/wiki).
- - [Info plagát na dvere lekární](https://github.com/misotrnka/slovensko-help/wiki/Info-plag%C3%A1t-na-dvere-lek%C3%A1rn%C3%AD) - ilustrovaný A4 infoleták a verzia aj pre zdieľanie na FB
-  - Info plagát do verejných priestorov - pripravujeme, bude dostupný čoskoro :)
-
-## Chcem sa zapojiť
-
-Ak máte chuť nám s niečim pomôcť, ozvite sa nám.
