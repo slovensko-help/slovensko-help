@@ -1,6 +1,6 @@
 ![slovensko.help](/slovensko-help.png)
 
-Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť Slovensku lepšie zvládnuť aktuálnu hrozbu epidémie nového coronavírusu. Robíme na projektoch a zbierame rôzne informačné zdrojov, ktoré prispievajú k lepšiemu zvládaniu pandémie.
+Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť Slovensku lepšie zvládnuť aktuálnu hrozbu epidémie nového coronavírusu. Robíme na projektoch a zbierame rôzne informačné zdroje, ktoré prispievajú k lepšiemu zvládaniu pandémie.
 
 ## Naše projekty
 
