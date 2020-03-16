@@ -18,3 +18,6 @@ Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť 
 * [Projekty podpory](https://github.com/misotrnka/slovensko-help/wiki/Projekty-podpory)
 * [Urob si sám](https://github.com/misotrnka/slovensko-help/wiki/Urob-si-s%C3%A1m)
 
+## Kontakt
+
+Ak nás potrebujete kontaktovať, [napíšte nám mail](mailto:info@slovensko.help).
