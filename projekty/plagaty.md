@@ -1,6 +1,6 @@
 ### K dispozícii
 
-* [Plagát pre lekárne](plagaty/plagat-pre-lekarne)
+* [Plagát pre lekárne](projekty/plagaty/plagat-pre-lekarne)
 
 ### Pripravuje sa
 

@@ -4,19 +4,19 @@ Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť 
 
 ## Naše projekty
 
-* [Chatbot - Covid.chat](Chatbot---Covid.chat)
+* [Chatbot - Covid.chat](projekty/chatbot)
   * Webový chat, ktorý umožňuje ľuďom, aby si pomohli sami, prostredníctvom zrozumiteľnej webovej aplikácie - chatbota, ktorý im jednoducho poskytne základné informácie o aktuálnej situácii, prevencii a diagnostike.
-* [Lepšia Infolinka](Lepšia-Infolinka)
+* [Lepšia Infolinka](projekty/lepsia-infolinka)
   * Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
-* [Plagáty](plagaty)
+* [Plagáty](projekty/plagaty)
   * Vytvárame plagáty pre lekárne, domácnosti, pošty a iné miesta, na ktorých je dôležité ľudí povzbudzovať k ohľaduplnosti a zodpovednému správaniu. Plagáty stačí stiahnuť, vytlačiť a vylepiť na viditeľné miesto.
 
-## Iné projekty a informácie
+## Zoznam informácií, aktivít a iniciatív
 
-* [Informácie](Inform%C3%A1cie)
-* [Vzdelávanie](Vzdel%C3%A1vanie)
-* [Projekty podpory](Projekty-podpory)
-* [Užitočné aplikácie a platformy](U%C5%BEito%C4%8Dn%C3%A9-aplik%C3%A1cie-a-platformy)
+* [Informácie](katalog/informacie)
+* [Vzdelávanie](katalog/vzdelavanie)
+* [Projekty podpory](katalog/projekty-podpory)
+* [Užitočné aplikácie a platformy](katalog/uzitocne-aplikacie-a-platformy)
 
 ## Kontakt
 

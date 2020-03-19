@@ -10,5 +10,5 @@ Iné projekty a informácie
 * [Informácie](Inform%C3%A1cie)
 * [Vzdelávanie](Vzdel%C3%A1vanie)
 * [Projekty podpory](Projekty-podpory)
-* [Urob si sám](Urob-si-s%C3%A1m)
+* [Užitočné aplikácie a platformy](https://github.com/misotrnka/slovensko-help/wiki/U%C5%BEito%C4%8Dn%C3%A9-aplik%C3%A1cie-a-platformy)
 
