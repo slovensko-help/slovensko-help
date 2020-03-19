@@ -13,7 +13,7 @@ Sme komunitná iniciatíva ľudí prevažne z IT sektora, ktorí chcú pomôcť 
 
 ## Zoznam informácií, aktivít a iniciatív
 
-* [Informácie](katalog/informacie)
+* [Informácie](katalog/informacie.md)
 * [Vzdelávanie](katalog/vzdelavanie)
 * [Projekty podpory](katalog/projekty-podpory)
 * [Užitočné aplikácie a platformy](katalog/uzitocne-aplikacie-a-platformy)
