@@ -18,8 +18,8 @@ Odporúčame na dvere lekárne zverejniť aj nedostupnosť sortimentu, na ktorý
 
 Náhľad obrázkov, ktoré sa nachádzajú v balíčku:
 
-![](https://github.com/misotrnka/slovensko-help/wiki/images/lekarne/lekarne-social-preview2.png)
-![](https://github.com/misotrnka/slovensko-help/wiki/images/lekarne/plagat-2020031501.png)
+![](images/lekarne/lekarne-social-preview2.png)
+![](images/lekarne/plagat-2020031501.png)
 
 
 ***
