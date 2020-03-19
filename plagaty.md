@@ -1,6 +1,6 @@
 ### K dispozícii
 
-* [Plagát pre lekárne](Info-plag%C3%A1t-na-dvere-lek%C3%A1rn%C3%AD)
+* [Plagát pre lekárne](plagaty/plagat-pre-lekarne)
 
 ### Pripravuje sa
 
