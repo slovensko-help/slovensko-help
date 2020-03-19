@@ -4,9 +4,7 @@
 
 ### Pripravuje sa
 
-* Plagát pre domácnosti
-* Plagát pre domácnosti v karanténe
-* Plagát pre predajne potravín
-* Plagát pre obecné úrady
-* Plagát pre pošty
-* Plagát pre čerpacie stanice
+* Plagát pre domácnosti a domácnosti v karanténe (pripravuje sa PDF)
+* Plagát pre predajne (finalizuje sa obsah)
+* Plagát pre obecné úrady (finalizuje sa obsah)
+* Plagát pre pošty (finalizuje sa obsah)
