@@ -5,21 +5,21 @@ Minimalizovať čas, ktorý pacient trávi v lekárni, počet ľudí, s ktorými
 # Postup pre plagát na dverách lekárne
 
 1. Stiahnite si PDF súbor plagátu:
-    * [stiahnuť slovenský plagát](files/lekarne/lekarne-plagat-v2020031501.pdf)
-    * [stiahnuť anglický plagát](files/lekarne/lekarne-plagat-v2020031501-en.pdf)
+    * [stiahnuť slovenský plagát]({{site.baseurl}}files/lekarne/lekarne-plagat-v2020031501.pdf)
+    * [stiahnuť anglický plagát]({{site.baseurl}}files/lekarne/lekarne-plagat-v2020031501-en.pdf)
 2. Vytlačte si súbor na vašej tlačiarni a umiestnite dve A4 na viditeľné miesto pri vstupe do lekárne (napríklad vstupné dvere)
 
 Odporúčame na dvere lekárne zverejniť aj nedostupnosť sortimentu, na ktorý sa ľudia najčastejšie pýtajú. Napríklad rúška, dezinfekcie, ai.
 
 # Postup pre Facebook
 
-1. Stiahnite si [balíček obrázkov pre zdieľanie na Facebooku](files/lekarne/lekarne-social-media-pack.zip) (ZIP súbor)
+1. Stiahnite si [balíček obrázkov pre zdieľanie na Facebooku]({{site.baseurl}}files/lekarne/lekarne-social-media-pack.zip) (ZIP súbor)
 2. Rozbaľte si balíček v počítači a pridajte obrázky do príspevku na Facebooku
 
 Náhľad obrázkov, ktoré sa nachádzajú v balíčku:
 
-![](images/lekarne/lekarne-social-preview2.png)
-![](images/lekarne/plagat-2020031501.png)
+![]({{site.baseurl}}images/lekarne/lekarne-social-preview2.png)
+![]({{site.baseurl}}images/lekarne/plagat-2020031501.png)
 
 
 ***
