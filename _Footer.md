@@ -1,0 +1,1 @@
+Zoznamy odkazov: [Informácie](Inform%C3%A1cie) | [Vzdelávanie](Vzdel%C3%A1vanie) | [Projekty podpory](Projekty-podpory) | [Urob si sám](Urob-si-s%C3%A1m)

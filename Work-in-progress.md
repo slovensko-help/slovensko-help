@@ -1,0 +1,1 @@
+* [Info plagát na dvere lekární](https://github.com/misotrnka/slovensko-help/wiki/Info-plag%C3%A1t-na-dvere-lek%C3%A1rn%C3%AD)
