@@ -1,3 +1,5 @@
+# Informácie
+
 ## Oficiálne verejné inštitúcie
 
 * [Informácie Úradu verejného zdravotníctva SR (UVZSR)](http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153)
