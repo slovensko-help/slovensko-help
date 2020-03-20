@@ -1,8 +1,10 @@
-### K dispozícii
+# Plagáty
+
+## K dispozícii
 
 * [Plagát pre lekárne](../projekty/plagaty/plagat-pre-lekarne.md)
 
-### Pripravuje sa
+## Pripravuje sa
 
 * Plagát pre domácnosti a domácnosti v karanténe (pripravuje sa PDF)
 * Plagát pre predajne (finalizuje sa obsah)
