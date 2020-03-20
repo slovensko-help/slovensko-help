@@ -15,7 +15,7 @@
   potrebuje pomôcť alebo tiež zadať dopyt pre pomoc.
 
 ## Komunikácia
-* ****Star Phone**** - komunikačná aplikácia so zapracovanou sekciou týkajúcou sa informácii o ochorení COVID19 a priamou 
+* Star Phone - komunikačná aplikácia so zapracovanou sekciou týkajúcou sa informácii o ochorení COVID19 a priamou 
   voľbou na jednotlivé strediská Úradu verejného zdravotníctva. Na stiahnutie pre Android [TU](https://play.google.com/store/apps/details?id=com.onesmartstar.phoneivr) a pre IOS [TU](https://apps.apple.com/sk/app/star-phone-one-smart-star/id1040781243)
 * [MOJE NOTIFIKÁCIE](http://mojenotifikacie.sk/) - Umožňuje zasielať napr. starostom alebo primátorom dôležité oznamy 
   formou notifikácii s možnosťou prijímania pre SMS, email a tradičné komunikátory (whatsapp, viber, messenger, etc.)
