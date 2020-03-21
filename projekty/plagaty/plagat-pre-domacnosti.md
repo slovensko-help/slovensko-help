@@ -2,7 +2,7 @@
 
 ## Cieľ tohto opatrenia
 
-Šíriť osvetu o opatreniach na zníženie rizika nákazy koronavírusom a k zodpovednému správaniu v domácnostiach a bytových domoch.
+Šíriť osvetu o opatreniach na zníženie rizika nákazy koronavírusom a k zodpovednému správaniu v domácnostiach a bytových domoch. Plagát obsahuje všeobecné inštrukcie pre domácnosti a aj inštrukcie pre domácnosti v karanténe.
 
 ## Postup
 
