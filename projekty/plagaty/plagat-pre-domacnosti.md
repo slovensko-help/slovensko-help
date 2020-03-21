@@ -10,6 +10,10 @@
     * [stiahnuť slovenský plagát](../../files/domacnosti/domacnosti-plagat-v2020032101.pdf)
 2. Vytlačte si súbor na vašej tlačiarni a umiestnite dve A4 na viditeľné miesto na vchodové dvere domu, do výťahu, ai.
 
+## Náhľad plagátu
+
+Na vytlačenie si stiahnite PDF súbor vyššie.
+
 ![](../../images/domacnosti/plagat-v2020032101.png)
 
 ***
