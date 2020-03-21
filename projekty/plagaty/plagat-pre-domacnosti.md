@@ -12,7 +12,7 @@
 
 ## Náhľad plagátu
 
-Na vytlačenie si stiahnite PDF súbor vyššie.
+Toto je len náhľad. Na vytlačenie v dobrej kvalite si stiahnite PDF súbor vyššie.
 
 ![](../../images/domacnosti/plagat-v2020032101.png)
 
