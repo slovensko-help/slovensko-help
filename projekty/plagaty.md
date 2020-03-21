@@ -1,7 +1,7 @@
 # Plagáty
 
 * [Plagát pre lekárne](../projekty/plagaty/plagat-pre-lekarne.md)
-* [Plagát pre lekárne](../projekty/plagaty/plagat-pre-domacnosti.md)
+* [Plagát pre domácnosti](../projekty/plagaty/plagat-pre-domacnosti.md)
 
 ### Pripravujeme
 
