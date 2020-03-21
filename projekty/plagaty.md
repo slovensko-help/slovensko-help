@@ -3,10 +3,10 @@
 ## K dispozícii
 
 * [Plagát pre lekárne](../projekty/plagaty/plagat-pre-lekarne.md)
+* [Plagát pre lekárne](../projekty/plagaty/plagat-pre-domacnosti.md)
 
 ## Pripravuje sa
 
-* Plagát pre domácnosti a domácnosti v karanténe (pripravuje sa PDF)
 * Plagát pre predajne (finalizuje sa obsah)
 * Plagát pre obecné úrady (finalizuje sa obsah)
 * Plagát pre pošty (finalizuje sa obsah)
