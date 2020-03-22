@@ -1,3 +1,6 @@
+[Úvodná stránka](../)
+
+***
 # Chatbot - Covid.chat
 
 Chatbot - [Covid.chat](https://covid.chat/), ktorý umožňuje ľuďom, aby si pomohli sami, prostredníctvom zrozumiteľnej webovej aplikácie - chatbota, ktorý im jednoducho poskytne základné informácie o:

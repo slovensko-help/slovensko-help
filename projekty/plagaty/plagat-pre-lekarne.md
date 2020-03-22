@@ -1,3 +1,6 @@
+[Úvodná stránka](../../) &gt; [Plagáty](../../projekty/plagaty.md)
+
+***
 # Plagát pre lekárne
 
 ## Cieľ tohto opatrenia

@@ -1,3 +1,6 @@
+[Úvodná stránka](../)
+
+***
 # Plagáty
 
 * [Plagát pre lekárne](../projekty/plagaty/plagat-pre-lekarne.md)

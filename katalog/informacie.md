@@ -1,3 +1,6 @@
+[Úvodná stránka](../) &gt; [Informácie](../katalog.md)
+
+***
 # Informácie
 
 ## Oficiálne verejné inštitúcie
