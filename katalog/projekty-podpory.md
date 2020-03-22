@@ -1,3 +1,6 @@
+[Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
+
+***
 # Projekty podpory
 
 ## Pomoc nemocniciam, domovom a iným dôležitým organizáciám

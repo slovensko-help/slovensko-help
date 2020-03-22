@@ -1,3 +1,6 @@
+[Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
+
+***
 # Užitočné aplikácie a platformy
 
 ## Zdravie

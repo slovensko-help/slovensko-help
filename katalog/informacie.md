@@ -1,4 +1,4 @@
-[Úvodná stránka](../) &gt; [Informácie](../katalog.md)
+[Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
 
 ***
 # Informácie

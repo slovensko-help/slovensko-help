@@ -1,3 +1,6 @@
+[Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
+
+***
 # Vzdelávanie
 
 * [viki.iedu.sk](https://viki.iedu.sk/resources/browser/verejne) - Kompletné vzdelávacie materiály pre školy aj s metodickými popismi a pracovnými listami certifikované metodikmi
