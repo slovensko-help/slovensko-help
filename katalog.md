@@ -1,4 +1,4 @@
-[Úvodná stránka](../)
+[Úvodná stránka](/)
 
 ***
 # Katalóg odkazov
