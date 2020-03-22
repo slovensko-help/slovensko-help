@@ -1,6 +1,6 @@
-[Úvodná stránka](../) &lt; [Plagáty](../projekty/plagaty.md)
-***
+[Úvodná stránka](../) &gt; [Plagáty](../projekty/plagaty.md)
 
+***
 # Plagát pre domácnosti
 
 ## Cieľ tohto opatrenia
