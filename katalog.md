@@ -1,3 +1,8 @@
+[Úvodná stránka](../)
+
+***
+# Katalóg odkazov
+
 * [Informácie](katalog/informacie)
 * [Vzdelávanie](katalog/vzdelavanie)
 * [Projekty podpory](katalog/projekty-podpory)
