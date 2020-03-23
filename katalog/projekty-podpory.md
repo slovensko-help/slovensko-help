@@ -7,8 +7,7 @@
 
 * [ktopomozeslovensku.sk](https://ktopomozeslovensku.sk/) - Finančná zbierka na podporu zdravotníkov, nemocníc a domovov dôchodcov
 * [Spoločnosť ESET vytvára fond na podporu účinnej diagnostiky ochorenia COVID-19](https://www.nadaciaeset.sk/aktuality/fond-koronavirus-2020-mar.html) - Cieľom je v prvej fáze zabezpečiť potrebné vybavenie na skvalitnenie diagnostiky a zavedenie plošného testovania na Slovensku.
-* [MAIA MD](https://maiamd.sk/) - Pomoc pre lekárov, aby minimalizovali osobný kontakt medzi lekárom a pacientom pomocou telemedicíny. Pomáhať pacientom môžu aj lekári v karanténe.
-* [Konvertor SIPO lístka na SEPA platby](https://www.sipoqr.sk/) - Slovenská pošta vydala návod ako SIPO lístok hradiť v čase pandémie pomocou SEPA prevodu cez internetbaning. Tento web po zadaní troch údajov zo SIPO lístka vygeneruje PayBySquare kod
+* [Pomoz nemocnici](https://www.facebook.com/pomoznemocnici/?hc_location=ufi) - FB skupina určená pre všetkých, ktorí chcú pomôcť ochranným prostriedkom pre zdravotníkov (darom, výrobou,etc.).
 
 ## Pomoc zraniteľným skupinám obyvateľov
 * [frantiskani.sk](http://www.frantiskani.sk/spravy/465/frantiskanska-nakupovacia-sluzba) - Ponuka Nakupovacej služby pre všetkých čo sa ocitli v karanténe, i pre starších a zdravotne postihnutých ľudí. 
