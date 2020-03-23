@@ -30,4 +30,4 @@
 * [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Poskytuje bezplatne obrazky smerujuce ku zmenam spravania obyvatelstva a pre novinarov a blogerov informujucich obyvatelstvo o pozadovanom spravania, vyvoji choroby a karanteny.
 * [TapiX by Dateio](https://dateio.eu/tapix) - Jsme Fintech startup, který zpracovává a obohacuje karetní transakce slovenských, českých a rumunských bank. Na základě naší analýzy transakcí jsme schopni měřit takřka realtime efekty jednotlivých opatření na snížení pohybu obyvatelstva. Všechno máme již připravené pro ČR, kde jsme aktivně zapojeni v COVID19.CZ, takže úprava pro SK je pro nás otázka pár hodin.
 
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
