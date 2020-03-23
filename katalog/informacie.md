@@ -5,10 +5,10 @@
 
 ## Oficiálne verejné inštitúcie
 
-* [Informácie Úradu verejného zdravotníctva SR (UVZSR)](http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153)
-* [Infoportál Národného centra zdravotníckych informácií (NCZI)](https://virus-corona.sk/)
-* [Infoportál Úradu vlády](https://korona.gov.sk/)
-* [Polícia SR](https://www.facebook.com/policiaslovakia/) - informácie o falošných správach
+* **[Jednotný infoportál Národného centra zdravotníckych informácií (NCZI) a Úradu vlády](https://www.korona.gov.sk/)**
+* [Infoportál Úradu verejného zdravotníctva SR (UVZSR)](http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153)
+* [Infoportál Ministerstva zdravotníctva](https://www.standardnepostupy.sk/zverejnene-standardy-rozdelenie/) - štandardné postupy a infomateriály
+* [Polícia SR](https://www.facebook.com/hoaxPZ/) - informácie o falošných správach
 
 ## Granty
 
@@ -30,4 +30,4 @@
 * [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Poskytuje bezplatne obrazky smerujuce ku zmenam spravania obyvatelstva a pre novinarov a blogerov informujucich obyvatelstvo o pozadovanom spravania, vyvoji choroby a karanteny.
 * [TapiX by Dateio](https://dateio.eu/tapix) - Jsme Fintech startup, který zpracovává a obohacuje karetní transakce slovenských, českých a rumunských bank. Na základě naší analýzy transakcí jsme schopni měřit takřka realtime efekty jednotlivých opatření na snížení pohybu obyvatelstva. Všechno máme již připravené pro ČR, kde jsme aktivně zapojeni v COVID19.CZ, takže úprava pro SK je pro nás otázka pár hodin.
 
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
