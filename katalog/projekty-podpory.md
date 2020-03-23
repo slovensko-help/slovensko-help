@@ -29,4 +29,4 @@
 * [https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku](https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku) - Zoznam IT firiem, ktoré chcú pomôcť
 * [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie, a best practices ako bojovat
 
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
