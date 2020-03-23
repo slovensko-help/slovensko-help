@@ -8,6 +8,7 @@
 * [Informácie Úradu verejného zdravotníctva SR (UVZSR)](http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153)
 * [Infoportál Národného centra zdravotníckych informácií (NCZI)](https://virus-corona.sk/)
 * [Infoportál Úradu vlády](https://korona.gov.sk/)
+* [Infoportál Ministerstva zdravotníctva](https://www.standardnepostupy.sk/zverejnene-standardy-rozdelenie/) - štandardné postupy a infomateriály
 * [Polícia SR](https://www.facebook.com/hoaxPZ/) - informácie o falošných správach
 
 ## Granty
