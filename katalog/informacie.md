@@ -5,7 +5,7 @@
 
 ## Oficiálne verejné inštitúcie
 
-* **[Infoportál Národného centra zdravotníckych informácií (NCZI)](https://virus-corona.sk/)**
+* **[Jednotný infoportál Národného centra zdravotníckych informácií (NCZI) a Úradu vlády](https://www.korona.gov.sk/)**
 * [Infoportál Úradu verejného zdravotníctva SR (UVZSR)](http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153)
 * [Infoportál Ministerstva zdravotníctva](https://www.standardnepostupy.sk/zverejnene-standardy-rozdelenie/) - štandardné postupy a infomateriály
 * [Polícia SR](https://www.facebook.com/hoaxPZ/) - informácie o falošných správach
