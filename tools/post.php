@@ -1,19 +1,21 @@
 <?php
 
-function send2slack($text) {
-  $data = json_encode(array(
-    "username"      =>  SLACK_USERNAME,
-    "channel"       =>  SLACK_CHANNEL,
-    "text"          =>  $text,
-    "icon_emoji"    =>  SLACK_ICON_EMOJI
-  ));
+function post(string $url, array $json, string $login = null, string $password = null): void
+{
+  if ($login === null || $password === null) {
+    $authHeader = '';
+  }
+  else {
+    $authHeader = "Authorization: Basic " . base64_encode("$login:$password") . "\r\n";
+  }
 
-  $ch = curl_init("SLACK_URL");
-  curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
-  curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
-  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+  $options = array(
+      'http' => array(
+          'header' => "Content-type: application/json\r\n" . $authHeader,
+          'method' => 'POST',
+          'content' => json_encode($json)
+      )
+  );
 
-  $result = curl_exec($ch);
-  curl_close($ch);
+  file_get_contents($url, false, stream_context_create($options));
 }
-?>

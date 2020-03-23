@@ -1,1 +1,4 @@
 /.idea
+/tools/email2slack/config.php
+/tools/callcentrum/config.php
+/tools/uvz-scraper/data/uvz/
