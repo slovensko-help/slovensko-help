@@ -13,6 +13,7 @@
 * [frantiskani.sk](http://www.frantiskani.sk/spravy/465/frantiskanska-nakupovacia-sluzba) - Ponuka Nakupovacej služby pre všetkých čo sa ocitli v karanténe, i pre starších a zdravotne postihnutých ľudí. 
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
 * [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť nakúpiť základné životné potreby alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
+* [Bezplatna pravna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
 
 ## Pomoc umelcom, živnostníkom a podnikateľom
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
@@ -20,6 +21,12 @@
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
 * [Ponuka práce vo firmách, ktoré pomáhajú](https://www.startupjobs.cz/nabidky/koronavirus) - Pomáha firmám zvládnuť nápor práce
 * [Best practices by BBG](https://docs.google.com/document/d/120FeDaSEEvCTDFlhXyR2Sj1PeaHbuoxBCmeBvD-nyD4/edit?fbclid=IwAR3VmCjqxL72xa2RX9lKRgKQnKqFj3NiUy-IeFqmVAWS4NVkBDWARYygBWE#) - Zoznam zdrojov, ktoré môžu pomôcť organizáciám, majiteľom firiem a podnikateľom.
+
+## Granty
+
+* [EIC Accelerator Budget EUR164M](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en) - Granty pre inovatívne riešenia, ktoré pomáhajú zvládať pandémiu
+* [Investment od Sama Altmana](https://blog.samaltman.com/funding-for-covid-19-projects) - Sam Altman je angel investor. Založil spolu s Elonom Muskom Open AI a v minulosti viedol najznámejší americký akceleračný program pre startupy - Y Combinator. Vydal ponuku pre startupy, ktoré vedia pomocť s Koronou.
+* [Emergent Ventures](https://www.mercatus.org/emergentventures) - pod vedením profesora Tylera Cowena z Mason University ponúka ceny v hodnote 1 milión dolárov pre rôzne typy projektov pomáhajúcich s koronou.
 
 ## Hackathony a iné dobrovoľnícke zoskupenia
 
