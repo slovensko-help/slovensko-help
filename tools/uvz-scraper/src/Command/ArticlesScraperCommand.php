@@ -37,8 +37,8 @@ class ArticlesScraperCommand extends Command
     {
         $this->log('Begin scraping UZV corona articles', $output);
 
-        $articles = $this->readFeed('http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153&limitstart=0&format=feed&type=rss&limit=1000', []);
-        $articles = $this->readFeed($this->feedFilepath, $articles, true);
+        $articles = $this->readFeed($this->feedFilepath, [], true);
+        $articles = $this->readFeed('http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153&limitstart=0&format=feed&type=rss&limit=1000', $articles);
         $articles = $this->scrapeArticles($articles, $output);
 
         $feed = new Feed();
@@ -81,6 +81,7 @@ class ArticlesScraperCommand extends Command
             file_put_contents($this->feedFilepath, $feed->export('rss'));
         }
 
+        $this->log('Articles count: ' . count($articles), $output);
         $this->log('Preparing to push updates...', $output);
         $repo = Git::open($this->exportDir);
         $repo->add('.');
