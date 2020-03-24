@@ -85,7 +85,8 @@ foreach ($result as $overview) {
     post(SLACK_URL, [
         'text' => "Nový email: \n *Predmet:* ".$subject."\n *Odosielateľ:* ".$from
     ]);
-    //imap_setflag_full($mailbox, $overview->msgno, "\\Seen");
+
+    imap_setflag_full($mailbox, $overview->msgno, "\\Seen");
   }
 }
 
