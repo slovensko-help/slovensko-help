@@ -18,7 +18,8 @@ use Symfony\Component\HttpClient\HttpClient;
 class ArticlesScraperCommand extends Command
 {
     const BASE_URI = 'http://www.uvzsr.sk';
-    const URL = '/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153';
+    const WEB_URL = '/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153';
+    const RSS_URL = '/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153&limitstart=0&format=feed&type=rss&limit=1000';
 
     protected static $defaultName = 'app:scrape:articles';
 
@@ -33,12 +34,18 @@ class ArticlesScraperCommand extends Command
         $this->feedFilepath = $exportDir . 'rss.xml';
     }
 
+    private function url(string $url): string {
+        $timestamp = time();
+        $url = strpos($url, 'http') === 0 ? $url : (self::BASE_URI . ltrim('/', $url) . '/' . $url);
+        return $url . (strpos($url, '?') === false ? '?' : '&') . "t$timestamp=$timestamp";
+    }
+
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $this->log('Begin scraping UZV corona articles', $output);
 
         $articles = $this->readFeed($this->feedFilepath, [], true);
-        $articles = $this->readFeed('http://www.uvzsr.sk/index.php?option=com_content&view=category&layout=blog&id=250&Itemid=153&limitstart=0&format=feed&type=rss&limit=1000', $articles);
+        $articles = $this->readFeed($this->url(self::RSS_URL), $articles);
         $articles = $this->scrapeArticles($articles, $output);
 
         $feed = new Feed();
@@ -145,7 +152,7 @@ class ArticlesScraperCommand extends Command
     {
         $client = clone $this->client();
 
-        $crawler = $client->request('GET', self::BASE_URI . self::URL);
+        $crawler = $client->request('GET', $this->url(self::WEB_URL));
         $crawler->filter('.blog_more a')->each(function (Crawler $node) use (&$articles) {
             $url = $this->absoluteUrl($node->attr('href'));
             $urlHash = $this->urlHash($url);
@@ -195,7 +202,7 @@ class ArticlesScraperCommand extends Command
                 $output->writeln('Date modified: ' . date('Y-m-d H:i:s', $article['dateModified']));
 
                 $client = clone $this->client();
-                $crawler = $client->request('GET', $article['url']);
+                $crawler = $client->request('GET', $this->url($article['url']));
 
                 $article['dateModified'] = $this->parseTime(trim($crawler->filter('.contentpaneopen .createdate')->text()));
                 $article['content'] = trim($crawler->filter('.contentpaneopen tr:nth-child(2) td')->html());
