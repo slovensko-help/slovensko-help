@@ -18,7 +18,7 @@ Odporúčame na dvere lekárne zverejniť aj nedostupnosť sortimentu, na ktorý
 
 ## Postup pre Facebook
 
-1. Stiahnite si [balíček obrázkov pre zdieľanie na Facebooku]({{site.baseurl}}files/lekarne/lekarne-social-media-pack.zip) (ZIP súbor)
+1. Stiahnite si [balíček obrázkov pre zdieľanie na Facebooku](../../files/lekarne/lekarne-social-media-pack.zip) (ZIP súbor)
 2. Rozbaľte si balíček v počítači a pridajte obrázky do príspevku na Facebooku
 
 ## Náhľad plagátu
