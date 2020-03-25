@@ -42,7 +42,7 @@ class ArticlesScraperCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $this->log('Begin scraping UZV corona articles', $output);
+        $this->log('Begin scraping UVZ corona articles', $output);
 
         $articles = $this->readFeed($this->feedFilepath, [], true);
         $articles = $this->readFeed($this->url(self::RSS_URL), $articles);
