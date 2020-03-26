@@ -1,6 +1,6 @@
 [Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
 
-Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https://docs.google.com/forms/d/1zLOWw_QhoOmzZxwau9_QVyDKQDTk6L4YxHk8-yKPB_A/edit), ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https://docs.google.com/forms/d/e/1FAIpQLSevzUREcor4s4FK2YfBLzFKP_MtQtFXNiVIVYHLnQTmLMRXqg/viewform), ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
 
 # Projekty podpory
 
