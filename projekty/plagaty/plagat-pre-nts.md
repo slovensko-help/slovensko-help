@@ -9,7 +9,7 @@ Pomoc pri osvete pre potenciálnych darcov krvi.
 ## Postup pre vyvesenie vo vašom okolí
 
 1. Stiahnite si PDF súbor plagátu:
-    * [stiahnuť plagáty](../../files/lekarne/lekarne-plagat-v2020031501.pdf)
+    * [stiahnuť plagáty](../../files/nts/darovanie_krvi_beet_0.pdf)
 2. Vytlačte si súbor na vašej tlačiarni a umiestnite na viditeľné miesto
 
 
