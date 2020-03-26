@@ -1,5 +1,6 @@
 [Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
 
+> Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https://docs.google.com/forms/d/1zLOWw_QhoOmzZxwau9_QVyDKQDTk6L4YxHk8-yKPB_A/edit), ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
 ***
 # Projekty podpory
 
@@ -43,4 +44,4 @@
 * [https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku](https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku) - Zoznam IT firiem, ktoré chcú pomôcť
 * [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie, a best practices ako bojovat
 
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+
