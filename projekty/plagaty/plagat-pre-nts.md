@@ -23,6 +23,9 @@ Pomoc pri osvete pre potenciálnych darcov krvi.
 
 Toto je len náhľad. Na vytlačenie v dobrej kvalite si stiahnite PDF súbor vyššie.
 
+![](../../images/nts/darovanie_krvi_beet3.png)
+![](../../images/nts/darovanie_krvi_beet4.png)
+![](../../images/nts/darovanie_krvi_beet5.png)
 
 
 ***
