@@ -7,15 +7,21 @@
 
 * [ktopomozeslovensku.sk](https://ktopomozeslovensku.sk/) - Finančná zbierka na podporu zdravotníkov, nemocníc a domovov dôchodcov
 * [Spoločnosť ESET vytvára fond na podporu účinnej diagnostiky ochorenia COVID-19](https://www.nadaciaeset.sk/aktuality/fond-koronavirus-2020-mar.html) - Cieľom je v prvej fáze zabezpečiť potrebné vybavenie na skvalitnenie diagnostiky a zavedenie plošného testovania na Slovensku.
-* [Pomoz nemocnici](https://pomoznemocnici.sk) - skupina určená pre všetkých, ktorí chcú pomôcť ochranným prostriedkom pre zdravotníkov (darom, výrobou,etc.) [Facebook skupina](https://www.facebook.com/pomoznemocnici/?hc_location=ufi).
+* [Pomoz nemocnici](https://www.facebook.com/pomoznemocnici/?hc_location=ufi) - FB skupina určená pre všetkých, ktorí chcú pomôcť ochranným prostriedkom pre zdravotníkov (darom, výrobou,etc.).
 
 ## Pomoc zraniteľným skupinám obyvateľov
+### Praktická výpomoc (nákupy, lieky)
 * [frantiskani.sk](http://www.frantiskani.sk/spravy/465/frantiskanska-nakupovacia-sluzba) - Ponuka Nakupovacej služby pre všetkých čo sa ocitli v karanténe, i pre starších a zdravotne postihnutých ľudí. 
-* [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
-* [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť nakúpiť základné životné potreby alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
+* [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť so základnýmipotravinami alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
 * [Nákupy pre seniorov a ZŤP v Považskej Bystrici](https://www.povazska-bystrica.sk/?id_menu=0&module_action__422965__id_ci=261334#m_422965) - Mestský úrad v Považskej Bystrici ponúka obstaranie nákupov základných potravín, hygienických potrieb alebo liekov prostredníctvom dobrovoľníkov.
-* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020
-* [Človek v ohrození](https://clovekvohrozeni.sk/clovek-proti-korone/) - Epidémia ochorenia Covid-19 zastihla svet nepripravený. Jednou z najzraniteľnejších skupín sú rodiny žijúce na okraji spoločnosti. Majú zlé životné podmienky a chýba im prístup k informáciám aj k zdravotným službám.
+* [Donáška pre seniorov v Brezne a Banskej Bystrici](https://www.facebook.com/banskobystrickysamospravnykraj/posts/2943887262364292) - Banskobystrický kraj zaisťuje donášku potravín pre seniorov a rizikové skupiny obyvateľov prostredníctvom kontaktnej linky.
+* [Linka pre seniorov - BA Nové mesto](https://www.banm.sk/0904-031-417-0907-977-211-0908-321-737-0800-242-000-seniori-a-osameli-novomestania-mozu-volat-na-linky-pomoci/) - linka zriadené mestkou časťou Bratislava- Nové mesto pre osamelých seniorov. Starší obyvatelia mesta sa na linku môžu obrátiť v tomto neistom období so svojimi otázkami či s požiadavkou o pomoc, napríklad s vyzdvihnutím liekov.
+* [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
+
+### Iné projekty pomoci
+* [človek proti korone](https://clovekvohrozeni.sk/clovek-proti-korone/) - človek v ohrození organizuje finančnú zbierku pre rodiny na okraji naśej spoločnosti. Ich zdravie je aj naše zdravie.
+* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
+ 
 
 ## Pomoc umelcom, živnostníkom a podnikateľom
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
