@@ -1,7 +1,7 @@
 [Úvodná stránka](../) &gt; [Katalóg odkazov](../katalog.md)
 
 > Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https://docs.google.com/forms/d/1zLOWw_QhoOmzZxwau9_QVyDKQDTk6L4YxHk8-yKPB_A/edit), ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
-***
+
 # Projekty podpory
 
 ## Pomoc nemocniciam, domovom a iným dôležitým organizáciám
@@ -42,6 +42,6 @@
 * [hackvirus.sk](https://hackvirus.sk) - virtuálny hackathon - najlepšie riešenia zrealizujú IT experti počas virtuálneho hackatonu a budú zadarmo odovzdané Ministerstvu zdavotníctva Slovenskej republiky
 * [SK Covid hackathon](http://bit.ly/covid19sk-fb) - Hackathon pre datove analyzy, nastroje na registraciu pacientov, a aj na prepojenie existujucich projektov a databaz
 * [https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku](https://www.slovensko.sk/sk/it-firmy-pomozte-slovensku) - Zoznam IT firiem, ktoré chcú pomôcť
-* [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie, a best practices ako bojovat
+* [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie a best practices ako bojovat s COVID19
 
 
