@@ -14,7 +14,8 @@
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
 * [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť nakúpiť základné životné potreby alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
 * [Nákupy pre seniorov a ZŤP v Považskej Bystrici](https://www.povazska-bystrica.sk/?id_menu=0&module_action__422965__id_ci=261334#m_422965) - Mestský úrad v Považskej Bystrici ponúka obstaranie nákupov základných potravín, hygienických potrieb alebo liekov prostredníctvom dobrovoľníkov.
-* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
+* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020
+* [Človek v ohrození](https://clovekvohrozeni.sk/clovek-proti-korone/) - Epidémia ochorenia Covid-19 zastihla svet nepripravený. Jednou z najzraniteľnejších skupín sú rodiny žijúce na okraji spoločnosti. Majú zlé životné podmienky a chýba im prístup k informáciám aj k zdravotným službám.
 
 ## Pomoc umelcom, živnostníkom a podnikateľom
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
