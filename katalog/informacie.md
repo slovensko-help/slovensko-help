@@ -33,7 +33,7 @@
 * [atsolutions.sk](https://atsolutions.sk/blog/koronavirus-pravne-danove-a-mzdove-informacie-v-kocke) - Koronavírus: právne, daňové a mzdové informácie v kocke 
 * [Informácie Ministerstva práce a sociálnej poisťovne](https://www.employment.gov.sk/sk/informacie-media/aktuality/koronavirus-pracovne-pravo-pn-osetrovne.html) – BOZP, PN a ošetrovné
 * [Koronavirus a pracovné právo](https://bratislavskykraj.sk/zamestnanie/) - Informácie pre zamestnávateľov z oblasti pracovného práva pripravené zo strany Bratislavského samosprávneho kraja
-* [hrcomm.sk]https://www.hrcomm.sk/aktuality/coronavirus-najcastejsie-otazky-a-odpovede-pre-zamestnavate-ov_343) – pracovnoprávne FAQ  v súvislosti s ochorením COVID19 pre zamestnávateľov
+* [hrcomm.sk](https://www.hrcomm.sk/aktuality/coronavirus-najcastejsie-otazky-a-odpovede-pre-zamestnavate-ov_343) – pracovnoprávne FAQ  v súvislosti s ochorením COVID19 pre zamestnávateľov
 * [podnikajte.sk](https://www.podnikajte.sk/pracovne-pravo-bozp/koronavirus-pracovne-pravo-dolezite-otazky) – dôležité pracovnoprávne otázky súvisiace s ochorením COVID19 pre zamestnávateľov
 
 > Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom zdroji informácii, ktorý je vhodné zaradiť do zoznamu.
