@@ -10,6 +10,7 @@
 * [Lepšia geografia](https://lepsiageografia.sk/) – inovatívny prístup k učeniu geografie, vhodný aj na učenie doma
 * [doučma.sk](https://www.doucma.sk) - online doučovanie
 * [Učím sa Doma](https://ucimsadoma.sk/) - Materiály na domácu výučbu, zatiaľ hlavne STEM
+* [IT/Academy](https://www.youtube.com/c/IT-AcademySK) - youtube kanál IT academy obsahujúci vzdelávacie videá pre programovacie jazyky aj  prácu s kancelárskymi balíkmi MS OFFICE
 * [online vzdelávanie - ako komunikovať tak, aby naše vzťahy prekvitali](https://www.otvorenahra.sk/) - V dnešných dňoch učí ľudí ako komunikovať, aby sa v karanténe navzájom nezožrali :)
 
 **Zmyslupné trávenie voľného času**
