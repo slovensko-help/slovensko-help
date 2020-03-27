@@ -34,7 +34,7 @@ Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https
 ## Granty
 
 * [Investment od Sama Altmana](https://blog.samaltman.com/funding-for-covid-19-projects) - Sam Altman je angel investor. Založil spolu s Elonom Muskom Open AI a v minulosti viedol najznámejší americký akceleračný program pre startupy - Y Combinator. Vydal ponuku pre startupy, ktoré vedia pomocť s Koronou.
-* [Emergent Ventures](https://www.mercatus.org/emergentventures) - pod vedením profesora Tylera Cowena z Mason University ponúka ceny v hodnote 1 milión dolárov pre rôzne typy projektov pomáhajúcich s koronou.
+
 
 ## Hackathony a iné dobrovoľnícke zoskupenia
 
