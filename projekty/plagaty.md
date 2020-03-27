@@ -6,7 +6,7 @@
 * [Plagát pre lekárne](../projekty/plagaty/plagat-pre-lekarne.md)
 * [Plagát pre domácnosti](../projekty/plagaty/plagat-pre-domacnosti.md)
 * [Plagát pre Národnú transfúznu stanicu](../projekty/plagaty/plagat-pre-nts.md)
-* [Usmernenia pre zdravotníckych pracovníkov o používani osobných ochranných pomôcok](../projekty/plagaty/plagat-pre-mz.md)
+* Usmernenia pre zdravotníckych pracovníkov o používani osobných ochranných pomôcok(pripravujeme aktualizáciu)
 
 ### Pripravujeme
 
