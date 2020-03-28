@@ -10,6 +10,7 @@ use Laminas\Feed\Reader\Entry\EntryInterface;
 use Laminas\Feed\Reader\Reader;
 use Laminas\Feed\Writer\Feed;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DomCrawler\Crawler;
@@ -34,19 +35,22 @@ class ArticlesScraperCommand extends Command
         $this->feedFilepath = $exportDir . 'rss.xml';
     }
 
-    private function url(string $url): string {
-        $timestamp = time();
-        $url = strpos($url, 'http') === 0 ? $url : (self::BASE_URI . ltrim('/', $url) . '/' . $url);
-        return $url . (strpos($url, '?') === false ? '?' : '&') . "t$timestamp=$timestamp";
+    protected function configure()
+    {
+        parent::configure();
+
+        $this->addArgument('scrape-content-day-limit', InputArgument::OPTIONAL);
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        $scrapeContentDayLimit = (int) ($input->getArgument('scrape-content-day-limit') ?? 1);
+
         $this->log('Begin scraping UVZ corona articles', $output);
 
         $articles = $this->readFeed($this->feedFilepath, [], true);
-        $articles = $this->readFeed($this->url(self::RSS_URL), $articles);
-        $articles = $this->scrapeArticles($articles, $output);
+        $articles = $this->readFeed($this->url(self::RSS_URL), $articles, false, false);
+        $articles = $this->scrapeArticles($articles, $scrapeContentDayLimit, $output);
 
         $feed = new Feed();
         $feed->setTitle("COVID-19 - ÚVZ SR");
@@ -115,7 +119,7 @@ class ArticlesScraperCommand extends Command
         $output->writeln(date('\[Y-m-d H:i:s\] ') . $message);
     }
 
-    private function readFeed(string $urlOrFilepath, array $articles = [], bool $isFile = false): array
+    private function readFeed(string $urlOrFilepath, array $articles = [], bool $isFile = false, bool $updateContent = true): array
     {
         if ($isFile) {
             if (is_file($urlOrFilepath)) {
@@ -134,8 +138,8 @@ class ArticlesScraperCommand extends Command
 
             $article['url'] = $entry->getLink();
             $article['title'] = $entry->getTitle();
-            $article['content'] = $entry->getContent();
             $article['dateModified'] = $entry->getDateModified()->getTimestamp();
+            $article['content'] = $updateContent ? trim($entry->getContent()) : ($article['content'] ?? '');
 
             $articles[$urlHash] = $article;
         }
@@ -148,7 +152,14 @@ class ArticlesScraperCommand extends Command
         return md5($url);
     }
 
-    private function scrapeArticles(array $articles, OutputInterface $output)
+    private function url(string $url): string
+    {
+        $timestamp = time();
+        $url = strpos($url, 'http') === 0 ? $url : (self::BASE_URI . ltrim('/', $url) . '/' . $url);
+        return $url . (strpos($url, '?') === false ? '?' : '&') . "t$timestamp=$timestamp";
+    }
+
+    private function scrapeArticles(array $articles, int $scrapeContentDayLimit, OutputInterface $output)
     {
         $client = clone $this->client();
 
@@ -166,7 +177,7 @@ class ArticlesScraperCommand extends Command
             $articles[$urlHash] = $article;
         });
 
-        $articles = $this->scrapeArticleContents($articles, $output);
+        $articles = $this->scrapeArticleContents($articles, $scrapeContentDayLimit, $output);
 
         return $articles;
     }
@@ -193,9 +204,9 @@ class ArticlesScraperCommand extends Command
         return $url;
     }
 
-    private function scrapeArticleContents(array $articles, OutputInterface $output)
+    private function scrapeArticleContents(array $articles, int $scrapeContentDayLimit, OutputInterface $output)
     {
-        $oneDayAgo = time() - 3600 * 24;
+        $oneDayAgo = time() - 3600 * 24 * $scrapeContentDayLimit;
 
         foreach ($articles as $urlHash => $article) {
             if ($article['dateModified'] > $oneDayAgo || empty($article['content'])) {
