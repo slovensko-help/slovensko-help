@@ -20,6 +20,7 @@ Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
 
 ### Iné projekty pomoci
+* [podelme sa.sk](https://podelmesa.sk/) - niekomu chýba materiál, inému zase ľudia. Podelmesa.sk na svojom webe spája ľudí, ktorí zháňajú materiál, pomôcky a pod. a tých, ktorí niečo môžu poskytnúť. 
 * [človek proti korone](https://clovekvohrozeni.sk/clovek-proti-korone/) - človek v ohrození organizuje finančnú zbierku pre rodiny na okraji naśej spoločnosti. Ich zdravie je aj naše zdravie.
 * [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
  
