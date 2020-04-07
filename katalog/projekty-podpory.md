@@ -25,11 +25,11 @@ Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https
 * [podelme sa.sk](https://podelmesa.sk/) - niekomu chýba materiál, inému zase ľudia. Podelmesa.sk na svojom webe spája ľudí, ktorí zháňajú materiál, pomôcky a pod. a tých, ktorí niečo môžu poskytnúť. 
 * [človek proti korone](https://clovekvohrozeni.sk/clovek-proti-korone/) - človek v ohrození organizuje finančnú zbierku pre rodiny na okraji naśej spoločnosti. Ich zdravie je aj naše zdravie.
 * [Právo v rúškach](http://www.pravovruskach.sk/index.html#top) - bezplatné vzory zmlúv a právnych dokumentov z rôznych oblastí (obchodné, pracovné právo, atď.), ktoré sú využiteľné počas súčasného stavu krízy, ale aj neskôr. 
-* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
  
 
 ## Pomoc umelcom, živnostníkom a podnikateľom
 * [Pomôž Slovákom](https://www.pomozslovakom.sk/) - mapa lokalít v SR, v ktorých je možné nájsť prevádzky, potraviny a služby, ktoré ponúkajú lokálni slovenskí podnikatelia alebo živnostníci. Podpora nákupom v tomto čase je pre mnohých šanca na prežitie pre ich biznis.
+* [Som Patriot](https://www.sompatriot.sk/) - prehľad lokálnych značiek, ktorých biznis môžeš podporiť kúpou produktu alebo príspevkom.
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Oto Kona](https://www.facebook.com/1035623598/posts/10218950217599843/?d=n) - projekt rôznorodej podpory umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
