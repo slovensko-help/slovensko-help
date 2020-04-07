@@ -33,6 +33,7 @@
 
 ## Iné
 * [Konverzia SIPO platieb](https://www.sipoqr.sk/) - aplikácia umožňujúca konverziu SIPO platby na SEPA prevod pomocou generovaného QR kódu tak, aby ste sa mohli vyhnúť návšteve pošty a platbu zrealizovali online.
+* [Podajme pomocnu ruku](https://www.instagram.com/podajme_pomocnu_ruku/) - instagramový profil s prehľadom dostupných projektov pomoci na Slovensku, ktoré autor projektu zozbieral.
 
  
 
