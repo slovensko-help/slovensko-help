@@ -263,6 +263,6 @@ class ArticlesScraperCommand extends Command
 
         $rawTime = trim(mb_substr($rawTime, mb_strpos($rawTime, ',') + 1));
 
-        return DateTimeImmutable::createFromFormat('d m Y H:i', $rawTime)->getTimestamp();
+        return DateTimeImmutable::createFromFormat('d. m Y H:i', $rawTime)->getTimestamp();
     }
 }
