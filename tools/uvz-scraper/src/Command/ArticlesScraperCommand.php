@@ -259,7 +259,7 @@ class ArticlesScraperCommand extends Command
             '10',
             '11',
             '12',
-        ], $rawTime);
+        ], mb_strtolower($rawTime));
 
         $rawTime = trim(mb_substr($rawTime, mb_strpos($rawTime, ',') + 1));
 
