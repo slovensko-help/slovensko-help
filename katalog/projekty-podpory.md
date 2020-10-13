@@ -13,7 +13,9 @@ Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https
 ## Pomoc zraniteľným skupinám obyvateľov
 ### Praktická výpomoc (nákupy, lieky)
 * [frantiskani.sk](http://www.frantiskani.sk/spravy/465/frantiskanska-nakupovacia-sluzba) - Ponuka Nakupovacej služby pre všetkých čo sa ocitli v karanténe, i pre starších a zdravotne postihnutých ľudí. 
-* [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť so základnýmipotravinami alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
+* [Pomôžem Vám](https://www.pomozemvam.sk/) - jednoduché spojenie medzi ľuďmi, ktorí potrebujú pomôcť so základnými potravinami alebo potrebujú službu a ľuďmi, ktorí sú im schopní a ochotní túto pomoc poskytnúť
+* [vzajomne.sk](https://vzajomne.sk/) - portál umožňuje ponúknuť dobrovoľnícku pomoc a taktiež zadať žiadosť o pomoc, pre tých, ktorí to potrebujú.
+* [Pomôž susedovi](https://www.pomozsusedovi.sk/) - platforma poskytuje návod na to, ako efektívne ponúknuť pomoc susedovi aj offline spôsobom.
 * [Nákupy pre seniorov a ZŤP v Považskej Bystrici](https://www.povazska-bystrica.sk/?id_menu=0&module_action__422965__id_ci=261334#m_422965) - Mestský úrad v Považskej Bystrici ponúka obstaranie nákupov základných potravín, hygienických potrieb alebo liekov prostredníctvom dobrovoľníkov.
 * [Donáška pre seniorov v Brezne a Banskej Bystrici](https://www.facebook.com/banskobystrickysamospravnykraj/posts/2943887262364292) - Banskobystrický kraj zaisťuje donášku potravín pre seniorov a rizikové skupiny obyvateľov prostredníctvom kontaktnej linky.
 * [Linka pre seniorov - BA Nové mesto](https://www.banm.sk/0904-031-417-0907-977-211-0908-321-737-0800-242-000-seniori-a-osameli-novomestania-mozu-volat-na-linky-pomoci/) - linka zriadené mestkou časťou Bratislava- Nové mesto pre osamelých seniorov. Starší obyvatelia mesta sa na linku môžu obrátiť v tomto neistom období so svojimi otázkami či s požiadavkou o pomoc, napríklad s vyzdvihnutím liekov.
@@ -22,10 +24,12 @@ Tento zoznam priebežne aktualizujeme. Prosím, vyplňte [náš formulár](https
 ### Iné projekty pomoci
 * [podelme sa.sk](https://podelmesa.sk/) - niekomu chýba materiál, inému zase ľudia. Podelmesa.sk na svojom webe spája ľudí, ktorí zháňajú materiál, pomôcky a pod. a tých, ktorí niečo môžu poskytnúť. 
 * [človek proti korone](https://clovekvohrozeni.sk/clovek-proti-korone/) - človek v ohrození organizuje finančnú zbierku pre rodiny na okraji naśej spoločnosti. Ich zdravie je aj naše zdravie.
-* [Bezplatná právna pomoc](https://www.najpravo.sk/clanky/pravna-pomoc-pre-ludi-v-karantene.html) - bezplatné právne poradenstvo poskytované advokátmi v období od 24.marca do 7.apríla 2020 
+* [Právo v rúškach](http://www.pravovruskach.sk/index.html#top) - bezplatné vzory zmlúv a právnych dokumentov z rôznych oblastí (obchodné, pracovné právo, atď.), ktoré sú využiteľné počas súčasného stavu krízy, ale aj neskôr. 
  
 
 ## Pomoc umelcom, živnostníkom a podnikateľom
+* [Pomôž Slovákom](https://www.pomozslovakom.sk/) - mapa lokalít v SR, v ktorých je možné nájsť prevádzky, potraviny a služby, ktoré ponúkajú lokálni slovenskí podnikatelia alebo živnostníci. Podpora nákupom v tomto čase je pre mnohých šanca na prežitie pre ich biznis.
+* [Som Patriot](https://www.sompatriot.sk/) - prehľad lokálnych značiek, ktorých biznis môžeš podporiť kúpou produktu alebo príspevkom.
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Oto Kona](https://www.facebook.com/1035623598/posts/10218950217599843/?d=n) - projekt rôznorodej podpory umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
