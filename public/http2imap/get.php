@@ -66,7 +66,7 @@ foreach ($messageUids as $messageUid) {
         }
     }
 
-    $result['messages'][] = $htmlContent;
+    $result['messages'][] = strip_tags($htmlContent);
 }
 
 imap_close($mailbox);
