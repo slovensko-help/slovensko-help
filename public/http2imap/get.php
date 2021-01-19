@@ -60,6 +60,9 @@ class mail {
             switch (strtoupper($charset)) {
                 case "UTF-8":
                     break;
+                case 'ISO-8859-2':
+                    $data = iconv('ISO-8859-2', 'UTF-8', $data);
+                    break;
                 default:
                     /* Here's where you should handle other character sets! */
                     throw new Exception("Unknown charset in header - time to write some code.");
@@ -142,7 +145,7 @@ foreach ($messageUids as $messageUid) {
     $htmlContent = str_replace('<br>', "\n", $htmlContent);
     $htmlContent = strip_tags($htmlContent);
 
-    $header = (array) imap_headerinfo($mailbox, imap_msgno($mailbox, $messageUid));
+    $header = imap_headerinfo($mailbox, imap_msgno($mailbox, $messageUid));
 
     $message = [
         'date' => null,
@@ -152,6 +155,8 @@ foreach ($messageUids as $messageUid) {
     ];
 
     if (false !== $header) {
+        $header = (array) $header;
+
         if (isset($header['date'])) {
             $message['date'] = $header['date'];
         }
