@@ -142,7 +142,7 @@ foreach ($messageUids as $messageUid) {
     $htmlContent = str_replace('<br>', "\n", $htmlContent);
     $htmlContent = strip_tags($htmlContent);
 
-    $header = imap_headerinfo($mailbox, imap_msgno($mailbox, $messageUid));
+    $header = (array) imap_headerinfo($mailbox, imap_msgno($mailbox, $messageUid));
 
     $message = [
         'date' => null,
