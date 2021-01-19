@@ -47,7 +47,21 @@ $result = [
 
 foreach ($messageUids as $messageUid) {
     $structure = imap_fetchstructure($mailbox, $messageUid, FT_UID);
-    $result['messages'][] = $structure;
+
+    $htmlContent = '';
+
+    if (isset($structure['parts'])) {
+        foreach ($structure['parts'] as $part) {
+            if ($part['subtype'] === 'HTML') {
+                $htmlContent = imap_fetchmime($mailbox, $messageUid, $part['id'], FT_UID);
+            }
+        }
+    }
+
+    $result['messages'][] = [
+        'structure' => $structure,
+        'html_content' => $htmlContent,
+    ];
 //    $result['messages'][] = imap_fetchbody($mailbox, $messageUid, "", FT_UID);
 }
 
