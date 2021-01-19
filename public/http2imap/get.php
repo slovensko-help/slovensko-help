@@ -57,10 +57,10 @@ foreach ($messageUids as $messageUid) {
             $partNumber = ($key + 1);
 
             if ($part['subtype'] === 'HTML') {
-                $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $partNumber, FT_UID & FT_PEEK);
+                $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $partNumber, FT_UID | FT_PEEK);
 
                 if (empty($htmlContent)) {
-                    $htmlContent = imap_fetchbody($mailbox, $messageUid, $partNumber, FT_UID & FT_PEEK);
+                    $htmlContent = imap_fetchbody($mailbox, $messageUid, $partNumber, FT_UID | FT_PEEK);
                 }
             }
         }
