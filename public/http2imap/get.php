@@ -47,7 +47,7 @@ $result = [
 
 foreach ($messageUids as $messageUid) {
     $structure = imap_fetchstructure($mailbox, $messageUid, FT_UID);
-    $result['messages'][] = json_encode($structure);
+    $result['messages'][] = $structure;
 //    $result['messages'][] = imap_fetchbody($mailbox, $messageUid, "", FT_UID);
 }
 
