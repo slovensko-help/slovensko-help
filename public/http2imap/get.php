@@ -51,11 +51,13 @@ foreach ($messageUids as $messageUid) {
     $htmlContent = '';
 
     if (isset($structure['parts'])) {
-        foreach ($structure['parts'] as $part) {
+        foreach ($structure['parts'] as $key => $part) {
             $part = (array) $part;
 
+            $partNumber = $key + 1;
+
             if ($part['subtype'] === 'HTML') {
-                $htmlContent = imap_fetchmime($mailbox, $messageUid, $part['id'], FT_UID);
+                $htmlContent = imap_fetchmime($mailbox, $messageUid, $partNumber, FT_UID);
             }
         }
     }
