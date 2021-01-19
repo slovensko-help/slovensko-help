@@ -109,7 +109,7 @@ if (false === $mailbox) {
 
 $MC = imap_check($mailbox);
 
-$messageUids = imap_search($mailbox, 'SUBJECT "' . $subject . '" SINCE "' . (new DateTimeImmutable('3 days ago'))->format('j F Y') . '"', SE_UID);
+$messageUids = imap_search($mailbox, 'SUBJECT "' . $subject . '" SINCE "' . (new DateTimeImmutable('2 days ago'))->format('j F Y') . '"', SE_UID);
 
 $result = [
     'success' => true,
@@ -170,6 +170,8 @@ foreach ($messageUids as $messageUid) {
 
     $result['messages'][] = $message;
 }
+
+$result['messages'] = array_reverse($result['messages']);
 
 imap_close($mailbox);
 
