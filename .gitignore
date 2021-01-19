@@ -1,5 +1,5 @@
 /.idea
 /tools/email2slack/config.php
 /tools/callcentrum/config.php
-/tools/http2imap/config.php
+/public/http2imap/config.php
 /tools/uvz-scraper/data/uvz/
