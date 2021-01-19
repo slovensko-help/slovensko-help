@@ -66,7 +66,7 @@ foreach ($messageUids as $messageUid) {
         }
     }
 
-    $htmlContent = quoted_printable_decode($this->text());
+    $htmlContent = quoted_printable_decode($htmlContent);
     $htmlContent = iconv('ISO-8859-2', 'UTF-8', $htmlContent);
     $htmlContent = str_replace('&nbsp;', " ", $htmlContent);
     $htmlContent = stripslashes($htmlContent);
