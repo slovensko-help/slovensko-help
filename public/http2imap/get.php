@@ -57,14 +57,23 @@ foreach ($messageUids as $messageUid) {
             $partNumber = ($key + 1);
 
             if ($part['subtype'] === 'HTML') {
-                $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $partNumber, FT_UID | FT_PEEK);
+                $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $partNumber, FT_UID);
 
                 if (empty($htmlContent)) {
-                    $htmlContent = imap_fetchbody($mailbox, $messageUid, $partNumber, FT_UID | FT_PEEK);
+                    $htmlContent = imap_fetchbody($mailbox, $messageUid, $partNumber, FT_UID);
                 }
             }
         }
     }
+
+    $htmlContent = quoted_printable_decode($this->text());
+    $htmlContent = iconv('ISO-8859-2', 'UTF-8', $htmlContent);
+    $htmlContent = str_replace('&nbsp;', " ", $htmlContent);
+    $htmlContent = stripslashes($htmlContent);
+    $htmlContent = html_entity_decode($htmlContent);
+    $htmlContent = str_replace('</td>', "|", $htmlContent);
+    $htmlContent = str_replace('<br>', "\n", $htmlContent);
+    $htmlContent = strip_tags($htmlContent);
 
     $result['messages'][] = strip_tags($htmlContent);
 }
