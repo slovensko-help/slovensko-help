@@ -46,7 +46,7 @@ $result = [
 ];
 
 foreach ($messageUids as $messageUid) {
-    $result['messages'][] = imap_fetchbody($mailbox, $messageUid, "");
+    $result['messages'][] = imap_fetchbody($mailbox, $messageUid, "", FT_UID);
 }
 
 imap_close($mailbox);
