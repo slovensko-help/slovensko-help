@@ -54,7 +54,7 @@ foreach ($messageUids as $messageUid) {
         foreach ($structure['parts'] as $key => $part) {
             $part = (array) $part;
 
-            $partNumber = $key + 1;
+            $partNumber = '1.' . ($key + 1);
 
             if ($part['subtype'] === 'HTML') {
                 $htmlContent = imap_fetchmime($mailbox, $messageUid, $partNumber, FT_UID);
