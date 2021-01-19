@@ -46,7 +46,7 @@ $result = [
 ];
 
 foreach ($messageUids as $messageUid) {
-    $structure = imap_fetchstructure($mailbox, $messageUid, FT_UID);
+    $structure = (array) imap_fetchstructure($mailbox, $messageUid, FT_UID);
 
     $htmlContent = '';
 
