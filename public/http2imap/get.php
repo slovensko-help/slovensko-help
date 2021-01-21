@@ -65,7 +65,7 @@ class mail {
                     break;
                 default:
                     /* Here's where you should handle other character sets! */
-                    throw new Exception("Unknown charset in header - time to write some code.");
+//                    throw new Exception("Unknown charset in header - time to write some code.");
             }
             $header = str_replace($match, $data, $header);
         }
