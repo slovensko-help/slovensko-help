@@ -121,7 +121,7 @@ $result = [
 ];
 
 function findFirstHTMLPath($parts, $parentPath = []) {
-    if (isset($structure['parts'])) {
+    if (isset($parts)) {
         foreach ($parts as $key => $part) {
             $part = (array) $part;
 
