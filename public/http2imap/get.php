@@ -65,7 +65,7 @@ class mail {
                     break;
                 default:
                     /* Here's where you should handle other character sets! */
-//                    throw new Exception("Unknown charset in header - time to write some code.");
+                    throw new Exception("Unknown charset in header - time to write some code.");
             }
             $header = str_replace($match, $data, $header);
         }
@@ -197,7 +197,14 @@ foreach ($messageUids as $messageUid) {
             $message['from'] = $header['fromaddress'];
         }
         if (isset($header['subject'])) {
-            $message['subject'] = mail::decode_header($header['subject']);
+            try {
+                $message['subject'] = mail::decode_header($header['subject']);
+            }
+            catch (Exception $exception) {
+                $message['subject'] = $header['subject'];
+                $message['subject_error'] = 'could not decode header';
+            }
+
         }
     }
 
