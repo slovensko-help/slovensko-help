@@ -157,13 +157,16 @@ foreach ($messageUids as $messageUid) {
         else {
             $section = join('.', $path);
         }
+    }
+    else {
+        $section = '1';
+    }
 
         $htmlContent = imap_fetchbody($mailbox, $messageUid, $section, FT_UID);
 
         if (empty($htmlContent)) {
             $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $section, FT_UID);
         }
-    }
 
     $rawContent = $htmlContent;
 
