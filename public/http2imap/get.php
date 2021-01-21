@@ -140,6 +140,8 @@ foreach ($messageUids as $messageUid) {
         }
     }
 
+    $rawContent = $htmlContent;
+
     $htmlContent = quoted_printable_decode($htmlContent);
     $htmlContent = iconv('ISO-8859-2', 'UTF-8', $htmlContent);
     $htmlContent = str_replace('&nbsp;', " ", $htmlContent);
@@ -155,6 +157,7 @@ foreach ($messageUids as $messageUid) {
         'date' => null,
         'from' => null,
         'subject' => null,
+        'rawContent' => $rawContent,
         'content' => $htmlContent,
     ];
 
