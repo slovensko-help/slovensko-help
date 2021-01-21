@@ -91,7 +91,8 @@ $user = isset($_POST['user']) ? $_POST['user'] : null;
 $password = isset($_POST['password']) ? $_POST['password'] : null;
 $subject = isset($_POST['subject']) ? $_POST['subject'] : null;
 $token = isset($_POST['token']) ? $_POST['token'] : null;
-$days = isset($_POST['days']) ? (int) $_POST['days'] : 3;
+$since = isset($_POST['since']) ? $_POST['since'] : (new DateTimeImmutable('3 days ago'))->format('j F Y');
+$before = isset($_POST['before']) ? (' BEFORE "' . $_POST['before']) : '"';
 
 
 if (null === $mailbox || null === $user || null === $password || null === $token || null === $subject) {
@@ -110,7 +111,7 @@ if (false === $mailbox) {
 
 $MC = imap_check($mailbox);
 
-$messageUids = imap_search($mailbox, 'SUBJECT "' . $subject . '" SINCE "' . (new DateTimeImmutable($days . ' days ago'))->format('j F Y') . '"', SE_UID);
+$messageUids = imap_search($mailbox, 'SUBJECT "' . $subject . '" SINCE "' . $since . '"' . $before, SE_UID);
 
 $result = [
     'success' => true,
