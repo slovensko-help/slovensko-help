@@ -157,7 +157,7 @@ foreach ($messageUids as $messageUid) {
         'date' => null,
         'from' => null,
         'subject' => null,
-        'rawContent' => $rawContent,
+        'structure' => $structure,
         'content' => $htmlContent,
     ];
 
