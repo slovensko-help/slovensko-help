@@ -120,23 +120,48 @@ $result = [
     'messages' => [],
 ];
 
+function findFirstHTMLPath($parts, $parentPath = []) {
+    if (isset($structure['parts'])) {
+        foreach ($parts as $key => $part) {
+            $part = (array) $part;
+
+            if (isset($part['parts'])) {
+                $parentPath[] = $key + 1;
+                $path = findFirstHTMLPath($part['parts'], $parentPath);
+
+                if (null !== $path) {
+                    return $path;
+                }
+            }
+
+            if ($part['subtype'] === 'HTML') {
+                $parentPath[] = $key + 1;
+                return $parentPath;
+            }
+        }
+    }
+
+    return null;
+}
+
 foreach ($messageUids as $messageUid) {
     $structure = (array) imap_fetchstructure($mailbox, $messageUid, FT_UID);
     $htmlContent = '';
 
     if (isset($structure['parts'])) {
-        foreach ($structure['parts'] as $key => $part) {
-            $part = (array) $part;
+        $path = findFirstHTMLPath($structure['parts'], []);
 
-            $partNumber = ($key + 1);
+        if (null === $path) {
+            $section = '1';
+        }
+        else {
+            $section = join('.', $path);
+        }
 
-            if ($part['subtype'] === 'HTML') {
-                $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $partNumber, FT_UID);
+        $htmlContent = imap_fetchbody($mailbox, $messageUid, $section, FT_UID);
 
-                if (empty($htmlContent)) {
-                    $htmlContent = imap_fetchbody($mailbox, $messageUid, $partNumber, FT_UID);
-                }
-            }
+        if (empty($htmlContent)) {
+            $htmlContent = imap_fetchbody($mailbox, $messageUid, '1.' . $section, FT_UID);
         }
     }
 
@@ -157,6 +182,7 @@ foreach ($messageUids as $messageUid) {
         'date' => null,
         'from' => null,
         'subject' => null,
+        'section' => $section,
         'structure' => $structure,
         'content' => $htmlContent,
     ];
