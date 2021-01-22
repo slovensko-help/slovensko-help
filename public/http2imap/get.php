@@ -34,7 +34,7 @@ class Controller
             $this->request[$parameter] = $this->formField($formData, $parameter);
 
             if (self::PARAMETER_REQUIRED === $parameterType && null === $this->request[$parameter]) {
-                throw $this->exception('Required parameter is missing.');
+                throw $this->exception('Required parameter "' . $parameter . '" is missing.');
             }
         }
 
