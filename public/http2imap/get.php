@@ -10,7 +10,7 @@ include_once 'config.php';
 class Controller
 {
     const PARAMETER_REQUIRED = 1;
-    const PARAMETER_OPTIONAL = 1;
+    const PARAMETER_OPTIONAL = 2;
 
     private $request = [
         'mailbox' => self::PARAMETER_REQUIRED,
